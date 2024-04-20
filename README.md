@@ -22,6 +22,7 @@
 <p class="MsoNormal"><span style="font-size: 20pt; line-height: 115%; font-family: &quot;.苹方-简&quot;, sans-serif;">星宇中学，<span lang="EN-US">NeoX<o:p></o:p></span></span></p>
 
 <p class="MsoNormal"><span style="font-size: 20pt; line-height: 115%; font-family: &quot;.苹方-简&quot;, sans-serif;">建房子<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal"><span style="font-size: 20pt; line-height: 115%; font-family: &quot;.苹方-简&quot;, sans-serif;">FreeVPS is good<span lang="EN-US"><o:p></o:p></span></span></p>
 
 </div>
 
